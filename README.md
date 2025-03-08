@@ -10,4 +10,4 @@ Hey there 👋, I'm Patrick Niyogitare. Welcome to my creative garden 🌻; Beyo
 
 🐦 **Twitter**: [@niyogitare](https://twitter.com/niyogitare) 
 
-Feel free to email me, and let's build something together ✉️: `patrickniyogitare28@gmail.com`.
+Feel free to email me, and let's build something together ✉️: `pniyogitare@gmail.com`.
