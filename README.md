@@ -8,6 +8,4 @@ Hey there 👋, I'm Patrick Niyogitare. Welcome to my creative garden 🌻; Beyo
 
 💼 **LinkedIn**: [Patrick Niyogitare](https://www.linkedin.com/in/patrickniyo) 
 
-🐦 **Twitter**: [@niyogitare](https://twitter.com/niyogitare) 
-
 Feel free to email me, and let's build something together ✉️: `pniyogitare@gmail.com`.
